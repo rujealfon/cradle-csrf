@@ -1,6 +1,6 @@
 {
     "name": "cradlephp/cradle-csrf",
-    "type": "plugin",
+    "type": "cradle-package",
     "description": "CSRF handler for Cradle",
     "minimum-stability": "dev",
     "keywords": [
